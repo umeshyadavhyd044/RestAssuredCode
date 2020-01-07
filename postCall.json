@@ -1,0 +1,95 @@
+{
+    "header": {
+        "aggregateId": "sdfdasdfd-asdfadf-asdfasdfas",
+        "requestId": "f04ff614-1ae9-4422-a09e-03422d986245",
+        "timestamp": 1539166210,
+        "correlationId": "b742dbcc-e29b-44df-8bd1-3ae6967e0228",
+        "clientId": "1231",
+        "userId": "web-portal"
+    },
+    "onlineAccountInfo": {
+        "email": [{
+            "oldText": "tsaest@example.com",
+            "text": "1234678@gmail.com",
+            "purposes":[{
+                "name": "PRIMARY"
+            }]
+        }],
+        "personalInfo":{
+            "name": {
+            "oldFirstName": "Aakas",
+            "firstName": "vinod",
+            "oldLastName": "dfgdfg",
+            "lastName": "palle"
+        }
+        },
+        "accountStatus":{
+        "platform":"SHOP"
+        },
+        "alternateId":[{
+            "type": "GUID",
+            "value": "21212122"
+        }],
+        "loyaltyPrograms": [{
+                "name": "CLUBCARD",
+                "oldValue": "21212222",
+                "value": "12312312312",
+                    "alternateProgramId": {
+                    "type": "sdfsd",
+                    "value": "2523423423423234"
+                }
+            },
+            {
+                "name": "ALASKA_AIRMILES",
+                "oldValue": "32233232333",
+                "value": "3423323",
+                "alternateProgramId": {
+                    "type": "",
+                    "value": ""
+                }
+            },
+            {
+                "name": "GENERAL_MILLS",
+                "oldValue": "dsfsdfsdfsd-sdsdfsdfs",
+                "value": "sdadfs2-23sddff-12312sd-sadfasdfa",
+                "alternateProgramId": {
+                    "type": "",
+                    "value": ""
+                }
+            }
+        ],
+        "store": {
+            "oldStoreId": "4444",
+            "storeId": "1953",
+            "storePreference": "DRIVEUP",
+            "address": {
+                "address1": "7499 Dublin Blvd",
+                "postalCode": "94568",
+                "city": "Dublin",
+                "stateCode": "CA",
+                "phone": [{
+                    "number": "9255564034"
+                }]
+            },
+
+ 
+
+            "banner": "safeway",
+            "DUGOnly": false,
+            "isDerived": false,
+            "serviceType": [
+                "DRIVEUP"
+            ]
+        },
+        "householdAccount": {
+            "householdId": "2342342342343"
+        }
+    },"credential": {
+            "password": {
+                "value": "gfhjjjjkkk"
+            }
+        }
+
+ 
+
+}
